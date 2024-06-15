@@ -1,2 +1,2 @@
 # Pokedex
-Go Pokedex using PokéAPI
+Go Pokedex using [PokéAPI](https://pokeapi.co/)
